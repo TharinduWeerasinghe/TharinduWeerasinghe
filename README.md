@@ -1,5 +1,5 @@
 <picture>
-  <img alt="cover photo of profile page" src="https://github.com/TharinduWeerasinghe/TharinduWeerasinghe/blob/master/assets/cover-photo.png">
+  <img alt="cover photo of profile page" src="(https://github.com/TharinduWeerasinghe/TharinduWeerasinghe/blob/master/assets/cover-photo.png)" width="100%" height="200px">
 </picture>
 
 <p align="center"> 
@@ -21,8 +21,8 @@
 <h3 align="center">GitHub Stats:</h3>
 <hr>
 <div align="center";>
-  <img src="https://github-readme-stats.vercel.app/api?username=TharinduWeerasinghe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduWeerasinghe&langs_count=8&theme=tokyonight" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=TharinduWeerasinghe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduWeerasinghe&langs_count=8&theme=tokyonight" alt="Top Languages" /> -->
     <img src="http://github-readme-streak-stats.herokuapp.com?user=TharinduWeerasinghe&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
   
 
