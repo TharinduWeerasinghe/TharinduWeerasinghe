@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thari9944
+- 👋 Hi, I’m Tharindu Weerasinghe
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning at Informatics Insitute of Technology
 
