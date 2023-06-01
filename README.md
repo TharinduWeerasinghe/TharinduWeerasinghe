@@ -1,3 +1,10 @@
+<picture>
+  <img alt="cover photo of profile page" src="assets/cover-photo.png">
+</picture>
+
+
+
+
 - 👋 Hi, I’m Tharindu Weerasinghe
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning at Informatics Insitute of Technology
