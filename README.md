@@ -1,5 +1,7 @@
 <picture>
-  <img alt="cover photo of profile page" src="https://drive.google.com/file/d/1MgyavexRP8UA2aeZ70r6oY6H32vZ2qzN/view?usp=sharing" width="100%" height="200px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TharinduWeerasinghe/TharinduWeerasinghe/blob/master/assets/cover-photo.png" width="100%" height="200px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TharinduWeerasinghe/TharinduWeerasinghe/blob/master/assets/cover-photo.png" width="100%" height="200px">
+  <img alt="cover photo of profile page" src="https://github.com/TharinduWeerasinghe/TharinduWeerasinghe/blob/master/assets/cover-photo.png" width="100%" height="200px">
 </picture>
 
 <h4 aligh="left">
