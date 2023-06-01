@@ -1,10 +1,6 @@
 <picture>
-  <img alt="cover photo of profile page" src="(https://github.com/TharinduWeerasinghe/TharinduWeerasinghe/blob/master/assets/cover-photo.png)" width="100%" height="200px">
+  <img alt="cover photo of profile page" src="https://drive.google.com/file/d/1MgyavexRP8UA2aeZ70r6oY6H32vZ2qzN/view?usp=sharing" width="100%" height="200px">
 </picture>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=TharinduWeerasinghe&label=Profile Views&color=0e75b6&style=flat" alt="TharinduWeerasinghe" />
-</p>
 
 <h4 aligh="left">
   I am a passionate and enthusiastic undergraduate at the University of Westminster, eagerly awaiting my results. With a deep love for learning and a drive to make a difference, I enjoy exploring new technologies and applying them in real-world scenarios.
@@ -37,5 +33,7 @@
 <a href="https://instagram.com/tharindu_d_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindu_d_w" height="30" width="40" /></a>
 </p>
 
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=TharinduWeerasinghe&label=Profile Views&color=0e75b6&style=flat" alt="TharinduWeerasinghe" />
+</p>
 
