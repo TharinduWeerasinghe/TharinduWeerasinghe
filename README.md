@@ -5,7 +5,7 @@
 </picture>
 
 <h4 aligh="left">
-  I am a passionate and enthusiastic undergraduate at the University of Westminster, eagerly awaiting my results. With a deep love for learning and a drive to make a difference, I enjoy exploring new technologies and applying them in real-world scenarios.
+  I am a passionate and enthusiastic graduate at the University of Westminster, eagerly awaiting my results. With a deep love for learning and a drive to make a difference, I enjoy exploring new technologies and applying them in real-world scenarios.
 </h4>
 
 - 📫 How to reach me **tharindudilshan9944@gmail.com**
